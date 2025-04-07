@@ -1,16 +1,25 @@
-## Hi there 👋
+# QuantumSyntaxDev
 
-<!--
-**QuantumSyntaxDev/QuantumSyntaxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / Fullstack / Mobile Developer  
+C++, Python, Kotlin, Dart, JS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- Backend: Python (FastAPI), Node.js, MongoDB, SQLite  
+- Mobile: Flutter (Android / iOS)  
+- Desktop: C++, low-level tools  
+- DevOps: Git, Docker, CI/CD
+
+---
+
+### Contact
+
+Email: QuantumSyntaxDev[at]example.com  
+Telegram: @QuantumSyntaxDev
+Website: coming soon
+
+---
+
+> Clean code. Clear logic. Real impact.
