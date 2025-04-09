@@ -8,6 +8,8 @@
 **Backend / Fullstack / Mobile Developer**  
 C++, Python, Kotlin, Dart, JS
 
+![GitHub Views](https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey)
+
 ### `Tech Stack`
 ```plaintext
 Backend  : FastAPI (Python), Node.js, MongoDB, SQLite
