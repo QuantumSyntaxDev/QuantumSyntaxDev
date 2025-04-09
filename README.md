@@ -23,4 +23,4 @@ DevOps   : Git, Docker, CI/CD
 **Telegram:** [@QuantumSyntaxDev](https://t.me/QuantumSyntaxDev)  
 **Website:** coming soon
 
-> Clean code. Clear logic. Real impact. а что моно добавить что у других нет в плане не инфы а оформления
+> Clean code. Clear logic. Real impact.
