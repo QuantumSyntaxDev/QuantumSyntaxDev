@@ -8,7 +8,8 @@ C++, Python, Kotlin, Dart, JS
 Backend  : FastAPI (Python), Node.js, MongoDB, SQLite
 Mobile   : Flutter (Android, iOS)
 Desktop  : C++ (Low-level tools)
-DevOps   : Git, Docker, CI/CD
+DevOps   : Git, Docker, CI/CD 
+```
 
 ### Contact
 **Email:** QuantumSyntaxDev[at]example.com  
