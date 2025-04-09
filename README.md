@@ -10,7 +10,6 @@ Mobile   : Flutter (Android, iOS)
 Desktop  : C++ (Low-level tools)
 DevOps   : Git, Docker, CI/CD 
 ```
-
 ### Contact
 **Email:** QuantumSyntaxDev[at]example.com  
 **Telegram:** [@QuantumSyntaxDev](https://t.me/QuantumSyntaxDev)  
