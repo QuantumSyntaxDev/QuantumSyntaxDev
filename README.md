@@ -7,7 +7,7 @@
 **Backend / Fullstack / Mobile Developer**  
 C++, Python, Kotlin, Dart, JS
 
-`Tech Stack`
+### `Tech Stack`
 ```plaintext
 Backend  : FastAPI (Python), Node.js, MongoDB, SQLite
 Mobile   : Flutter (Android, iOS)
