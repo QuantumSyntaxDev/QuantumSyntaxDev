@@ -4,7 +4,7 @@
   ### QuantumSyntaxDev
 
 
-![Typing Text](https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50)
+![Typing Text](https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23A39EEC&center=true&width=280&height=50)
 
 **Backend / Fullstack / Mobile Developer**  
 C++, Python, Kotlin, Dart, JS
