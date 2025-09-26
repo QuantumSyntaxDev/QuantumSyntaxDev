@@ -18,8 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey" alt="GitHub Views" />
 </p>
 
----
-
 ### Tech Stack
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" /></a>
