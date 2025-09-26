@@ -1,22 +1,23 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="50%">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="50%">
+<div align="center" style="position: relative; width: 100%;">
 
-<br clear="both">
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="50%">
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="50%">
 
-<h3 align="center">QuantumSyntaxDev</h3>
+  <div style="position: absolute; top: 25%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 100%;">
+    <h3>QuantumSyntaxDev</h3>
+    <p>
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23A39EEC&center=true&width=280&height=50" />
+    </p>
+    <p>
+      <b>Backend / Fullstack / Mobile Developer</b><br>
+      C++, Python, Kotlin, Dart, JS
+    </p>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey" alt="GitHub Views" />
+    </p>
+  </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23A39EEC&center=true&width=280&height=50" />
-</p>
-
-<p align="center">
-  <b>Backend / Fullstack / Mobile Developer</b><br>
-  C++, Python, Kotlin, Dart, JS
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey" alt="GitHub Views" />
-</p>
+</div>
 
 ---
 
