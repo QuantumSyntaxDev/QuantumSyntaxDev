@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 <p align="center">
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" /></a>
   <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="36" height="36" alt="PHP" /></a>
@@ -47,13 +47,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions Graph" width="100%">
-</div>
-
----
-
-### ⚡ Other Skills
+### Other Skills
 ```plaintext
 Backend  : FastAPI (Python), Node.js, MongoDB, SQLite
 Mobile   : Flutter (Android, iOS)
