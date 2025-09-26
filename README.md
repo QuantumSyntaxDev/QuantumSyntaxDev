@@ -1,24 +1,22 @@
-<div style="position: relative; width: 100%; text-align: center;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%">
 
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="50%" style="float: left; z-index: 1;">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="50%" style="float: right; z-index: 1;">
+<br clear="both">
 
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; color: white;">
-    <h3>QuantumSyntaxDev</h3>
-    <p>
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23A39EEC&center=true&width=280&height=50" />
-    </p>
-    <p>
-      <b>Backend / Fullstack / Mobile Developer</b><br>
-      C++, Python, Kotlin, Dart, JS
-    </p>
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey" alt="GitHub Views" />
-    </p>
-  </div>
+<h3 align="center">QuantumSyntaxDev</h3>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23A39EEC&center=true&width=280&height=50" />
+</p>
 
+<p align="center">
+  <b>Backend / Fullstack / Mobile Developer</b><br>
+  C++, Python, Kotlin, Dart, JS
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey" alt="GitHub Views" />
+</p>
 
 ---
 
@@ -54,4 +52,20 @@
 Backend  : FastAPI (Python), Node.js, MongoDB, SQLite
 Mobile   : Flutter (Android, iOS)
 Desktop  : C++ (Low-level tools)
-DevOps   : Git, Docker, CI/CD 
+DevOps   : Git, Docker, CI/CD  сделай чтобы  <br clear="both">
+
+<h3 align="center">QuantumSyntaxDev</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23A39EEC&center=true&width=280&height=50" />
+</p>
+
+<p align="center">
+  <b>Backend / Fullstack / Mobile Developer</b><br>
+  C++, Python, Kotlin, Dart, JS
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey" alt="GitHub Views" />
+</p> был поверх<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="50%">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="50%"> 
