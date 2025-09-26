@@ -16,8 +16,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey" alt="GitHub Views" />
-  [![Followers](https://img.shields.io/github/followers/QuantumSyntaxDev?label=Followers&style=social)](https://github.com/QuantumSyntaxDev)
 </p>
+
+<p align="center">
+  
+[![Followers](https://img.shields.io/github/followers/QuantumSyntaxDev?label=Followers&style=social)](https://github.com/QuantumSyntaxDev)
+
+</p>
+
 
 ### Tech Stack
 <p align="center">
