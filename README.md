@@ -10,18 +10,10 @@
 </p>
 
 <p align="center">
-  <b>Backend / Fullstack / Mobile Developer</b><br>
-  C++, Python, Kotlin, Dart, JS
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey" alt="GitHub Views" />
-</p>
-
-<p align="center">
-  
-[![Followers](https://img.shields.io/github/followers/QuantumSyntaxDev?label=Followers&style=social)](https://github.com/QuantumSyntaxDev)
-
+  <a href="https://github.com/QuantumSyntaxDev">
+    <img src="https://img.shields.io/github/followers/QuantumSyntaxDev?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
 </p>
 
 
