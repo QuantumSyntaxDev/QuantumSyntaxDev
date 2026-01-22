@@ -72,7 +72,6 @@ No fluff. No fake hype. Repos below — judge there.
 
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=QuantumSyntaxDev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumSyntaxDev&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
