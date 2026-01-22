@@ -3,8 +3,8 @@
   <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
 </p>
 
-<h1 align="center">QuantumSyntaxDev</h1>
-<h3 align="center">Backend / Full-Stack Developer</h3>
+<h1 align="center">量子語法 | QuantumSyntaxDev</h1>
+<h3 align="center">后端 / 全栈开发工程师 | Backend / Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Yooooooooooooooo;Welcome+to+my+profile;I+build+real+systems;&font=Fira%20Code&color=%23A39EEC&center=true&width=420&height=50" />
@@ -19,22 +19,23 @@
 
 ---
 
-## About Me
+## 关于我 | About Me
 
-I’m **QuantumSyntaxDev** — backend & full-stack developer.  
-I love the **open-source ecosystem**, collaboration, and building things that **actually work**.
+我是 **QuantumSyntaxDev**，一名后端及全栈开发工程师。我热爱开源生态，乐于协作，致力于构建稳定且实用的系统。  
+I’m **QuantumSyntaxDev** — backend & full-stack developer. I love the **open-source ecosystem**, collaboration, and building things that **actually work**.
 
-- Growing as an engineer  
-- Contributing to meaningful projects  
-- Learning from professionals 
+- 追求卓越的工程实践 | Growing as an engineer
+- 参与具有影响力的项目 | Contributing to meaningful projects
+- 向行业顶尖技术专家学习 | Learning from professionals
 
+拒绝空谈。用代码说话，请查阅下方的仓库。  
 No fluff. No fake hype. Repos below — judge there.
 
 ---
 
-## Featured Projects
+## 精选项目 | Featured Projects
 
-| Project | Issues | Open PRs | Closed PRs |
+| 项目名称 Project | 议题 Issues | 合并请求 Open PRs | 已关闭 PRs Closed |
 | :--- | :---: | :---: | :---: |
 | **Hackintosh Lenovo IdeaPad** | ![Issues](https://img.shields.io/github/issues/QuantumSyntaxDev/Hackintosh-for-Lenovo-IdeaPad-320-17IKB-Type-80XM) | ![Open PR](https://img.shields.io/github/issues-pr/QuantumSyntaxDev/Hackintosh-for-Lenovo-IdeaPad-320-17IKB-Type-80XM) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/QuantumSyntaxDev/Hackintosh-for-Lenovo-IdeaPad-320-17IKB-Type-80XM) |
 | **ChatGPT Deep Purple Theme** | ![Issues](https://img.shields.io/github/issues/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme) | ![Open PR](https://img.shields.io/github/issues-pr/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme) |
@@ -42,21 +43,21 @@ No fluff. No fake hype. Repos below — judge there.
 
 ---
 
-## Tech Stack
+## 技术栈 | Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,symfony,laravel,java,spring,python,django,ts,nodejs,express,nest,prisma,angular,postgres,mysql,mongodb,docker,linux,nginx,rabbitmq,bash,git&theme=dark" />
 </p>
 
-### Other Skills
-* **Backend:** FastAPI, Node.js, REST, GraphQL
-* **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
-* **DevOps:** Docker, CI/CD, Linux, Nginx
-* **Mobile/Desktop:** Flutter, C++ (low-level tools)
+### 其他技能 | Other Skills
+* **后端 Backend:** FastAPI, Node.js, REST, GraphQL
+* **数据库 Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+* **运维 DevOps:** Docker, CI/CD, Linux, Nginx
+* **移动/桌面端 Mobile/Desktop:** Flutter, C++ (low-level tools)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">联系我 | Connect with me:</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
@@ -68,7 +69,7 @@ No fluff. No fake hype. Repos below — judge there.
 
 ---
 
-## GitHub Stats
+## 统计数据 | GitHub Stats
 
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=QuantumSyntaxDev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
