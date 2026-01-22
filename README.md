@@ -1,52 +1,82 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
+<p align="center">
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
+</p>
 
-<br clear="both">
-
-<h3 align="center">QuantumSyntaxDev</h3>
+<h1 align="center">QuantumSyntaxDev</h1>
+<h3 align="center">Backend / Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23A39EEC&center=true&width=280&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Yooooooooooooooo;Welcome+to+my+profile;I+build+real+systems;&font=Fira%20Code&color=%23A39EEC&center=true&width=420&height=50" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey" alt="GitHub Views" />
+  <img src="https://komarev.com/ghpvc/?username=QuantumSyntaxDev&color=grey" alt="Views" />
   <a href="https://github.com/QuantumSyntaxDev">
-    <img src="https://img.shields.io/github/followers/QuantumSyntaxDev?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/QuantumSyntaxDev?label=Followers&style=social" alt="Followers" />
   </a>
 </p>
 
+---
 
-### Tech Stack
+## About Me
+
+I’m **QuantumSyntaxDev** — backend & full-stack developer.  
+I love the **open-source ecosystem**, collaboration, and building things that **actually work**.
+
+- Growing as an engineer  
+- Contributing to meaningful projects  
+- Learning from professionals 
+
+No fluff. No fake hype. Repos below — judge there.
+
+---
+
+## Featured Projects
+
+| Project | Issues | Open PRs | Closed PRs |
+| :--- | :---: | :---: | :---: |
+| **Hackintosh Lenovo IdeaPad** | ![Issues](https://img.shields.io/github/issues/QuantumSyntaxDev/Hackintosh-for-Lenovo-IdeaPad-320-17IKB-Type-80XM) | ![Open PR](https://img.shields.io/github/issues-pr/QuantumSyntaxDev/Hackintosh-for-Lenovo-IdeaPad-320-17IKB-Type-80XM) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/QuantumSyntaxDev/Hackintosh-for-Lenovo-IdeaPad-320-17IKB-Type-80XM) |
+| **ChatGPT Deep Purple Theme** | ![Issues](https://img.shields.io/github/issues/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme) | ![Open PR](https://img.shields.io/github/issues-pr/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/QuantumSyntaxDev/ChatGPT-Deep-Purple-Theme) |
+| **GitHub Achievements Booster** | ![Issues](https://img.shields.io/github/issues/QuantumSyntaxDev/GitHub-Achievements-Booster) | ![Open PR](https://img.shields.io/github/issues-pr/QuantumSyntaxDev/GitHub-Achievements-Booster) | ![Closed PR](https://img.shields.io/github/issues-pr-closed/QuantumSyntaxDev/GitHub-Achievements-Booster) |
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="36" height="36" alt="PHP" /></a>
-  <a href="https://symfony.com/"><img src="https://skillicons.dev/icons?i=symfony&theme=dark" width="36" height="36" alt="Symfony" /></a>
-  <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="36" height="36" alt="Laravel" /></a>
-  <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="36" height="36" alt="Java" /></a>
-  <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="36" height="36" alt="Django" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36" alt="Express" /></a>
-  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nest&theme=dark" width="36" height="36" alt="NestJS" /></a>
-  <a href="https://www.prisma.io"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="36" height="36" alt="Prisma" /></a>
-  <a href="https://jestjs.io/"><img src="https://skillicons.dev/icons?i=jest&theme=dark" width="36" height="36" alt="Jest" /></a>
-  <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular&theme=dark" width="36" height="36" alt="Angular" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker" /></a>
-  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux" /></a>
-  <a href="https://www.rabbitmq.com"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="36" height="36" alt="RabbitMQ" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="36" height="36" alt="Bash" /></a>
-  <a href="https://nginx.org/"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="36" height="36" alt="Nginx" /></a>
-  <a href="https://www.digitalocean.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
+  <img src="https://skillicons.dev/icons?i=php,symfony,laravel,java,spring,python,django,ts,nodejs,express,nest,prisma,angular,postgres,mysql,mongodb,docker,linux,nginx,rabbitmq,bash,git&theme=dark" />
 </p>
 
-
 ### Other Skills
-```plaintext
-Backend  : FastAPI (Python), Node.js, MongoDB, SQLite
-Mobile   : Flutter (Android, iOS)
-Desktop  : C++ (Low-level tools)
-DevOps   : Git, Docker, CI/CD
+* **Backend:** FastAPI, Node.js, REST, GraphQL
+* **Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+* **DevOps:** Docker, CI/CD, Linux, Nginx
+* **Mobile/Desktop:** Flutter, C++ (low-level tools)
 
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack-overflow" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=QuantumSyntaxDev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumSyntaxDev&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%">
+</p>
+<br><br>
